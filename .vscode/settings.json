@@ -1,0 +1,5 @@
+{
+    "cmake.configureOnOpen": true,
+    "C_Cpp.configurationWarnings": "Disabled",
+    "gtestExplorer.executable": "build/test/test_sum"
+}
